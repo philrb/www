@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+bunx tailwindcss -i assets/stylesheets/_default.css -o assets/stylesheets/default.css --minify
+JEKYLL_ENV=production bundle exec jekyll build
