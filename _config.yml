@@ -47,6 +47,7 @@ exclude:
   - package.json
   - Procfile.dev
   - tailwind.config.js
+  - README.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
